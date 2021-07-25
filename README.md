@@ -11,3 +11,8 @@ Hope to see you soon
 
 ## Royal Machine Learning Summary
 
+## Royal Computer Vision Summary
+
+## Royal Natural Language Processing Summary
+
+## Royal Automatic Speech Recognition Summary
