@@ -7,7 +7,7 @@ Bachelor in Biomedical Engineering at FH Aachen - University of Applied Sciences
 ```
 This site is being constructed!!! 
 
-Hope to see you soon
+Hope to see you soon (ideally in the beginning of 2022)
 
 ## Royal Machine Learning Summary
 
