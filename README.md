@@ -37,7 +37,10 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
+<details><summary>VietMed-NER dataset</summary><p>
+Due to the double-blind review at ACL 2024, request of data and models will be processed after paper notification.
+</p></details>
 
-2. VietMed-NER dataset: Due to the double-blind review at ACL 2024, request of data and models will be processed after paper notification.
-
-3. VietMed-Sum dataset: Due to the double-blind review at Interspeech 2024, request of data and models will be processed after paper notification.
+<details><summary>VietMed-Sum dataset</summary><p>
+Due to the double-blind review at Interspeech 2024, request of data and models will be processed after paper notification.
+</p></details>
