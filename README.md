@@ -1,6 +1,6 @@
 # MultiMed: Multilingual Multitask Multipurpose Medical Speech Recognition
 
-> Please press ⭐ button if you like this repo or cite papers if you feel helpful.
+> Please press ⭐ button and/or cite papers if you feel helpful.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Last%20updated%20on-10.04.2024-brightgreen?style=for-the-badge">
