@@ -37,18 +37,30 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
-<details><summary>Medical Spoken Named Entity Recognition (Coming soon!)</summary><p>
+**Below is work in progress, will be available soon!**
+
+<details><summary>Medical Spoken Named Entity Recognition</summary><p>
 Due to the double-blind review at ACL 2024, request of data and models will be processed after paper notification.
 </p></details>
 
-<details><summary>Real-time Speech Summarization for Medical Conversations (Coming soon!)</summary><p>
+<details><summary>Real-time Speech Summarization for Medical Conversations</summary><p>
 Due to the double-blind review at Interspeech 2024, request of data and models will be processed after paper notification.
 </p></details>
 
-<details><summary>Two-Stage Intermediate Loss for Fine-tuning Self-Supervised Models (Coming soon!)</summary><p>
+<details><summary>Two-Stage Intermediate Loss for Fine-tuning Self-Supervised Models</summary><p>
 Due to the double-blind review, request of implementation and models will be processed after paper notification.
 </p></details>
 
-<details><summary>Domain-Shift in Medical Machine Translation (Coming soon!)</summary><p>
+<details><summary>Domain-Shift in Medical Machine Translation</summary><p>
 Due to the double-blind review, request of implementation and models will be processed after paper notification.
 </p></details>
+
+## Contact:
+
+For any information, please contact the main author:
+
+Le Duc Khai at University of Toronto, Canada
+
+Email: duckhai.le@mail.utoronto.ca
+
+GitHub: https://github.com/leduckhai
