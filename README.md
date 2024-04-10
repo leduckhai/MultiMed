@@ -37,10 +37,10 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
-<details><summary>VietMed-NER dataset</summary><p>
+<details><summary>Medical Spoken Named Entity Recognition</summary><p>
 Due to the double-blind review at ACL 2024, request of data and models will be processed after paper notification.
 </p></details>
 
-<details><summary>VietMed-Sum dataset</summary><p>
+<details><summary>Real-time Speech Summarization for Medical Conversations</summary><p>
 Due to the double-blind review at Interspeech 2024, request of data and models will be processed after paper notification.
 </p></details>
