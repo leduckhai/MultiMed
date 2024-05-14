@@ -9,6 +9,11 @@ For full dataset (labeled data + unlabeled data), please refer to [Google Drive]
 ## Pre-trained Models: Coming soon!
 
 ## Reproduce Experiments:
+Please check "config" folder for reproducibility.
+
+Necessary packages for GMM-HMM ASR: [RETURNN](https://github.com/rwth-i6/returnn), [Sisyphus](https://github.com/rwth-i6/sisyphus), [RASR](https://github.com/rwth-i6/rasr), [SRILM](http://www.speech.sri.com/projects/srilm/), [Fairseq](https://github.com/facebookresearch/fairseq).
+
+You may also want to check how to fine-tune our wav2vec 2.0-based pre-trained models [here](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md).
 
 ## Contact:
 
