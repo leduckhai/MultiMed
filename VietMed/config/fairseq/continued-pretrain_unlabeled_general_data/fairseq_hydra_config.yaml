@@ -1,0 +1,72 @@
+# @package _group_
+checkpoint:
+  finetune_from_model: /rwthfs/rz/cluster/work/oh751555/checkpoints/xlsr53_8enc/xlsr_53_56k_8enc.pt
+  no_epoch_checkpoints: false
+  restore_file: checkpoint_last.pt
+  save_dir: output/checkpoints
+  save_interval: 25
+common:
+  fp16: true
+  log_format: json
+  log_interval: 200
+criterion:
+  _name: wav2vec
+  infonce: true
+  log_keys:
+  - prob_perplexity
+  - code_perplexity
+  - temp
+  loss_weights:
+  - 0.1
+  - 10
+dataset:
+  batch_size: 8
+  max_tokens: 1200000
+  num_workers: 6
+  skip_invalid_size_inputs_valid_test: true
+distributed_training:
+  ddp_backend: legacy_ddp
+  distributed_world_size: 8
+lr_scheduler:
+  _name: polynomial_decay
+  warmup_updates: 6000
+model:
+  _name: wav2vec2
+  conv_bias: true
+  conv_feature_layers: '[(512, 10, 5)] + [(512, 3, 2)] * 4 + [(512,2,2)] + [(512,
+    2, 1)]'
+  dropout_features: 0.1
+  dropout_input: 0.1
+  encoder_attention_heads: 16
+  encoder_embed_dim: 1024
+  encoder_ffn_embed_dim: 4096
+  encoder_layerdrop: 0.05
+  encoder_layers: 8
+  extractor_mode: layer_norm
+  feature_grad_mult: 1.0
+  final_dim: 768
+  latent_temp:
+  - 2.0
+  - 0.1
+  - 0.999995
+  layer_norm_first: true
+  quantize_targets: true
+optimization:
+  lr:
+  - 0.0005
+  max_epoch: 300
+  max_update: 1000000
+  update_freq:
+  - 4
+optimizer:
+  _name: adam
+  adam_betas: (0.9,0.98)
+  adam_eps: 1e-06
+  weight_decay: 0.01
+task:
+  _name: audio_pretraining
+  data: /rwthfs/rz/cluster/home/oh751555/i6/setups/hykist/20211021_vietnamese/work/i6_experiments/users/dierkes/preprocessing/wav2vec/FairseqAudioManifestCreationJob.qKty95taTtrU/output/manifest/
+  max_sample_size: 160000
+  min_sample_size: 16000
+  normalize: true
+  sample_rate: 8000
