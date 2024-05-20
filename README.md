@@ -28,11 +28,16 @@ Due to privacy restrictions, there's a shortage of publicly available speech rec
 Please cite this paper https://arxiv.org/abs/2404.05659
 
 ``` bibtex
-@inproceedings{VietMed_dataset,
-  title={VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain}, 
-  author={Khai Le-Duc},
-  year={2024},
-  booktitle = {Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+@inproceedings{le-duc-2024-vietmed-dataset,
+    title = "{V}iet{M}ed: A Dataset and Benchmark for Automatic Speech Recognition of {V}ietnamese in the Medical Domain",
+    author = "Le-Duc, Khai",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1509",
+    pages = "17365--17370",
 }
 ```
 </p></details>
