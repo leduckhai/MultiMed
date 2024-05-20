@@ -35,7 +35,6 @@ Please cite this paper https://arxiv.org/abs/2404.05659
   pages={17365--17370},
   year={2024}
 }
-}
 ```
 </p></details>
 
