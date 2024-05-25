@@ -2,7 +2,7 @@
 
 ## Dataset and Pre-trained Models:
 
-For labeled data, please refer to our [HuggingFace](https://huggingface.co/datasets/leduckhai/VietMed), [Paperswithcodes](https://paperswithcode.com/dataset/vietmed).
+To load labeled data, please refer to our [HuggingFace](https://huggingface.co/datasets/leduckhai/VietMed), [Paperswithcodes](https://paperswithcode.com/dataset/vietmed).
 
 For full dataset (labeled data + unlabeled data) and pre-trained models, please refer to [Google Drive](https://drive.google.com/drive/folders/1hsoB_xjWh66glKg3tQaSLm4S1SVPyANP?usp=sharing)
 
