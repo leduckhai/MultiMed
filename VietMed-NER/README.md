@@ -139,3 +139,18 @@ pip3 install -e .
     ```
 
 ## Contact
+
+Core developers:
+
+**Khai Le-Duc**
+```
+University of Toronto, Canada
+Email: duckhai.le@mail.utoronto.ca
+GitHub: https://github.com/leduckhai
+```
+
+**Hung-Phong Tran**
+```
+Hanoi University of Science and Technology, Vietnam
+GitHub: https://github.com/hungphongtrn
+```
