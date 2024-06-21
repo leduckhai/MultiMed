@@ -3,7 +3,7 @@
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Last%20updated%20on-10.04.2024-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Last%20updated%20on-21.06.2024-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/Written%20by-Le%20Duc%20Khai-pink?style=for-the-badge"> 
 </p>
 
@@ -38,11 +38,28 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
-**Below is work in progress, will be available soon!**
+<details><summary>Medical Spoken Named Entity Recognition </summary><p>
+    
+* [Main page](VietMed-NER/README.md)
 
-<details><summary>Medical Spoken Named Entity Recognition</summary><p>
-Due to the double-blind review at ACL 2024, request of data and models will be processed after paper notification.
+* **Abstract:**
+Spoken Named Entity Recognition (NER) aims to extracting named entities from speech and categorizing them into types like person, location, organization, etc. In this work, we present VietMed-NER - the first spoken NER dataset in the medical domain. To our best knowledge, our real-world dataset is the largest spoken NER dataset in the world in terms of the number of entity types, featuring 18 distinct types. Secondly, we present baseline results using various state-of-the-art pre-trained models: encoder-only and sequence-to-sequence. We found that pre-trained multilingual models XLM-R outperformed all monolingual models on both reference text and ASR output. Also in general, encoders perform better than sequence-to-sequence models for the NER task. By simply translating, the transcript is applicable not just to Vietnamese but to other languages as well. All code, data and models are made publicly available here: https://github.com/leduckhai/MultiMed
+
+* **Citation:**
+Please cite this paper https://arxiv.org/abs/2406.13337
+
+``` bibtex
+@misc{leduc2024medical,
+      title={Medical Spoken Named Entity Recognition}, 
+      author={Khai Le-Duc},
+      year={2024},
+      eprint={2406.13337},
+      archivePrefix={arXiv},
+}
+```
 </p></details>
+
+**Below is work in progress, will be available soon!**
 
 <details><summary>Real-time Speech Summarization for Medical Conversations</summary><p>
 Due to the double-blind review at Interspeech 2024, request of data and models will be processed after paper notification.
