@@ -1,0 +1,7 @@
+datasets==2.19.2
+fire==0.6.0
+loguru==0.7.2
+numpy==1.26.4
+seqeval==1.2.2
+tqdm==4.65.0
+transformers==4.41.2
