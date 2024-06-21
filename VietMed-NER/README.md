@@ -15,7 +15,7 @@ This repository contains scripts for automatic speech recognition (ASR) and name
     - [Seq2Seq Model Inference](#seq2seq-model-inference)
     - [BERT-Based Model Inference](#bert-based-model-inference)
   - [Evaluation](#evaluation)
-- [Contac]
+- [Contact](#contact)
 
 ## Requirements
 
