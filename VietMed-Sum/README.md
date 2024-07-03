@@ -5,7 +5,7 @@ This repository contains scripts for automatic speech recognition (ASR) and real
 
 ## Dataset and Pre-trained Models:
 
-Dataset: [HuggingFace dataset](https://huggingface.co/datasets/leduckhai/VietMed-Sum), [Paperswithcodes](None) comes soon!
+Dataset: [HuggingFace dataset](https://huggingface.co/datasets/leduckhai/VietMed-Sum), [Paperswithcodes dataset](https://paperswithcode.com/dataset/vietmed-sum)
 
 Pre-trained models: [HuggingFace model](https://huggingface.co/leduckhai/ViT5-VietMedSum)
 
