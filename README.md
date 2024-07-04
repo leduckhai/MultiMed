@@ -60,7 +60,11 @@ Please cite this paper https://arxiv.org/abs/2406.13337
 </p></details>
 
 <details><summary> Real-time Speech Summarization for Medical Conversations (Interspeech 2024) </summary><p>
-    
+
+<p align="center">
+<img src="/VietMed-Sum/RTSS_diagram.png" alt="drawing" width="900"/>
+</p>
+
 * [Main page](VietMed-Sum/README.md)
 
 * **Abstract:**
