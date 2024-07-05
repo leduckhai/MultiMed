@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/AI for Healthcare-white">
 </p>
 
-## List of implemented papers
+## Code for implemented papers
 
 <details><summary>VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024) </summary><p>
 
