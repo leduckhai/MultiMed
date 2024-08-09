@@ -49,12 +49,14 @@ Spoken Named Entity Recognition (NER) aims to extracting named entities from spe
 Please cite this paper https://arxiv.org/abs/2406.13337
 
 ``` bibtex
-@misc{leduc2024medical,
+@misc{leduc2024medicalspokennamedentity,
       title={Medical Spoken Named Entity Recognition}, 
-      author={Khai Le-Duc},
+      author={Khai Le-Duc and David Thulke and Hung-Phong Tran and Long Vo-Dang and Khai-Nguyen Nguyen and Truong-Son Hy and Ralf Schlüter},
       year={2024},
       eprint={2406.13337},
       archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2406.13337}, 
 }
 ```
 </p></details>
