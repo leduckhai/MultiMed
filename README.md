@@ -81,7 +81,7 @@ Please cite this paper: https://arxiv.org/abs/2406.15888
     author={Le-Duc, Khai and Nguyen, Khai-Nguyen and Vo-Dang, Long and Hy, Truong-Son},
     journal={arXiv preprint arXiv:2406.15888},
     booktitle={Interspeech 2024},
-    url = {https://arxiv.org/abs/2406.15888}
+    url = {https://arxiv.org/abs/2406.15888},
     year={2024}
     }
 ```
