@@ -1,5 +1,25 @@
 # Medical Spoken Named Entity Recognition
+
+**<div align="center">NAACL 2025</div>**
+
+<div align="center">Khai Le-Duc, David Thulke, Hung-Phong Tran, Long Vo-Dang, Khai-Nguyen Nguyen, Truong-Son Hy, Ralf Schlüter</div>
+
 > Please press ⭐ button and/or cite papers if you feel helpful.
+
+* **Abstract:**
+Spoken Named Entity Recognition (NER) aims to extract named entities from speech and categorise them into types like person, location, organization, etc. In this work, we present VietMed-NER - the first spoken NER dataset in the medical domain. To our knowledge, our Vietnamese real-world dataset is the largest spoken NER dataset in the world regarding the number of entity types, featuring 18 distinct types. Furthermore, we present baseline results using various state-of-the-art pre-trained models: encoder-only and sequence-to-sequence; and conduct quantitative and qualitative error analysis. We found that pre-trained multilingual models generally outperform monolingual models on reference text and ASR output and encoders outperform sequence-to-sequence models in NER tasks. By translating the transcripts, the dataset can also be utilised for text NER in the medical domain in other languages than Vietnamese. All code, data and models are publicly available: [https://github.com/leduckhai/MultiMed/tree/master/VietMed-NER](https://github.com/leduckhai/MultiMed/tree/master/VietMed-NER)
+
+* **Citation:**
+Please cite this paper https://arxiv.org/abs/2406.13337
+
+``` bibtex
+@article{le2024medical,
+  title={Medical Spoken Named Entity Recognition},
+  author={Le-Duc, Khai and Thulke, David and Tran, Hung-Phong and Vo-Dang, Long and Nguyen, Khai-Nguyen and Hy, Truong-Son and Schl{\"u}ter, Ralf},
+  journal={arXiv preprint arXiv:2406.13337},
+  year={2024}
+}
+```
 
 This repository contains scripts for automatic speech recognition (ASR) and named entity recognition (NER) using sequence-to-sequence (seq2seq) models and BERT-based models. The provided scripts cover model preparation, training, inference, and evaluation processes, based on the dataset VietMed-NER.
 
