@@ -4,8 +4,11 @@
 This repository contains scripts for automatic speech recognition (ASR) and named entity recognition (NER) using sequence-to-sequence (seq2seq) models and BERT-based models. The provided scripts cover model preparation, training, inference, and evaluation processes, based on the dataset VietMed-NER.
 
 ## Dataset and Pre-trained Models:
+[HuggingFace Dataset](https://huggingface.co/datasets/leduckhai/VietMed-NER)
 
-[HuggingFace](None), [Paperswithcodes](None) comes soon!
+[HuggingFace Models](https://huggingface.co/leduckhai/VietMed-NER)
+
+[Paperswithcodes](https://paperswithcode.com/paper/medical-spoken-named-entity-recognition)
 
 ## Table of Contents
 
