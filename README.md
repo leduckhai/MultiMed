@@ -1,4 +1,4 @@
-# MultiMed: Multilingual Multitask Multipurpose Medical Speech Recognition
+# MultiMed: Multilingual Multitask Medical Speech Recognition
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
