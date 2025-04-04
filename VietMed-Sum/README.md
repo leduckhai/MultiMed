@@ -2,6 +2,10 @@
 
 **<div align="center">Interspeech 2024 (Oral)</div>**
 
+<div align="center">Khai Le-Duc*, Khai-Nguyen Nguyen*, Long Vo-Dang, Truong-Son Hy</div>
+
+<div align="center">*Equal contribution</div>
+
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
 * **Abstract:**
