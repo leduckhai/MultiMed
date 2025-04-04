@@ -17,7 +17,7 @@
 
 ## Code for implemented papers
 
-<details><summary>VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024) </summary><p>
+<details><summary>VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024, Oral) </summary><p>
 
 * [Code](VietMed/README.md)
 
@@ -38,30 +38,27 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
-<details><summary>Medical Spoken Named Entity Recognition </summary><p>
+<details><summary>Medical Spoken Named Entity Recognition (NAACL 2025) </summary><p>
     
 * [Code](VietMed-NER/README.md)
 
 * **Abstract:**
-Spoken Named Entity Recognition (NER) aims to extracting named entities from speech and categorizing them into types like person, location, organization, etc. In this work, we present VietMed-NER - the first spoken NER dataset in the medical domain. To our best knowledge, our real-world dataset is the largest spoken NER dataset in the world in terms of the number of entity types, featuring 18 distinct types. Secondly, we present baseline results using various state-of-the-art pre-trained models: encoder-only and sequence-to-sequence. We found that pre-trained multilingual models XLM-R outperformed all monolingual models on both reference text and ASR output. Also in general, encoders perform better than sequence-to-sequence models for the NER task. By simply translating, the transcript is applicable not just to Vietnamese but to other languages as well. All code, data and models are made publicly available here: https://github.com/leduckhai/MultiMed
+Spoken Named Entity Recognition (NER) aims to extract named entities from speech and categorise them into types like person, location, organization, etc. In this work, we present VietMed-NER - the first spoken NER dataset in the medical domain. To our knowledge, our Vietnamese real-world dataset is the largest spoken NER dataset in the world regarding the number of entity types, featuring 18 distinct types. Furthermore, we present baseline results using various state-of-the-art pre-trained models: encoder-only and sequence-to-sequence; and conduct quantitative and qualitative error analysis. We found that pre-trained multilingual models generally outperform monolingual models on reference text and ASR output and encoders outperform sequence-to-sequence models in NER tasks. By translating the transcripts, the dataset can also be utilised for text NER in the medical domain in other languages than Vietnamese. All code, data and models are publicly available: [https://github.com/leduckhai/MultiMed/tree/master/VietMed-NER](https://github.com/leduckhai/MultiMed/tree/master/VietMed-NER)
 
 * **Citation:**
 Please cite this paper https://arxiv.org/abs/2406.13337
 
 ``` bibtex
-@misc{leduc2024medicalspokennamedentity,
-      title={Medical Spoken Named Entity Recognition}, 
-      author={Khai Le-Duc and David Thulke and Hung-Phong Tran and Long Vo-Dang and Khai-Nguyen Nguyen and Truong-Son Hy and Ralf Schlüter},
-      year={2024},
-      eprint={2406.13337},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2406.13337}, 
+@article{le2024medical,
+  title={Medical Spoken Named Entity Recognition},
+  author={Le-Duc, Khai and Thulke, David and Tran, Hung-Phong and Vo-Dang, Long and Nguyen, Khai-Nguyen and Hy, Truong-Son and Schl{\"u}ter, Ralf},
+  journal={arXiv preprint arXiv:2406.13337},
+  year={2024}
 }
 ```
 </p></details>
 
-<details><summary> Real-time Speech Summarization for Medical Conversations (Interspeech 2024) </summary><p>
+<details><summary> Real-time Speech Summarization for Medical Conversations (Interspeech 2024, Oral) </summary><p>
 
 <p align="center">
 <img src="/VietMed-Sum/RTSS_diagram.png" alt="drawing" width="900"/>
