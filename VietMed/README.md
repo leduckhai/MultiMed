@@ -1,4 +1,4 @@
-# VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain
+# VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024, Oral)
 
 ## Dataset and Pre-trained Models:
 
