@@ -84,7 +84,7 @@ Please cite this paper: https://arxiv.org/abs/2406.15888
 ```
 </p></details>
 
-<details><summary> MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder </summary><p>
+<details><summary> MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder (Under review) </summary><p>
 
 * [Code](MultiMed/README.md)
 
