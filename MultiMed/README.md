@@ -27,9 +27,9 @@ The provided scripts cover model preparation, training, inference, and evaluatio
 
 ## Dataset and Pre-trained Models:
 
-Dataset: [HuggingFace dataset](https://huggingface.co/datasets/leduckhai/MultiMed), [Paperswithcodes dataset](https://paperswithcode.com/dataset/multimed)
+Dataset: [🤗 HuggingFace dataset](https://huggingface.co/datasets/leduckhai/MultiMed), [Paperswithcodes dataset](https://paperswithcode.com/dataset/multimed)
 
-Pre-trained models: [HuggingFace models](https://huggingface.co/leduckhai/MultiMed)
+Pre-trained models: [🤗 HuggingFace models](https://huggingface.co/leduckhai/MultiMed)
 
 ## Contact:
 
