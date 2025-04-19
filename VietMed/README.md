@@ -24,7 +24,7 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 
 To load labeled data, please refer to our:
 
-<img src="https://github.com/leduckhai/MultiMed/blob/master/huggingface_logo.PNG" alt="Logo" width="150"/> [Link](https://huggingface.co/datasets/leduckhai/VietMed)
+🤗 [HuggingFace](https://huggingface.co/datasets/leduckhai/VietMed)
 
 [Paperswithcodes](https://paperswithcode.com/dataset/vietmed).
 
