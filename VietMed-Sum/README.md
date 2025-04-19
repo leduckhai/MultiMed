@@ -33,9 +33,9 @@ This repository contains scripts for automatic speech recognition (ASR) and real
 
 ## Dataset and Pre-trained Models:
 
-Dataset: [HuggingFace dataset](https://huggingface.co/datasets/leduckhai/VietMed-Sum), [Paperswithcodes dataset](https://paperswithcode.com/dataset/vietmed-sum)
+Dataset: [🤗 HuggingFace dataset](https://huggingface.co/datasets/leduckhai/VietMed-Sum), [Paperswithcodes dataset](https://paperswithcode.com/dataset/vietmed-sum)
 
-Pre-trained models: [HuggingFace model](https://huggingface.co/leduckhai/ViT5-VietMedSum)
+Pre-trained models: [🤗 HuggingFace model](https://huggingface.co/leduckhai/ViT5-VietMedSum)
 
 ## For reproducing experiments:
 Data for train, dev, test is in the corresponding folder. Each folder contains different split of the dataset. The ASR data for testing is in ./test/test_asr.xlsx
