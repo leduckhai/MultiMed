@@ -2,7 +2,7 @@
 
 **<div align="center">NAACL 2025</div>**
 
-<div align="center">Khai Le-Duc, David Thulke, Hung-Phong Tran, Long Vo-Dang, Khai-Nguyen Nguyen, Truong-Son Hy, Ralf Schlüter</div>
+<div align="center"><b>Khai Le-Duc</b>, David Thulke, Hung-Phong Tran, Long Vo-Dang, Khai-Nguyen Nguyen, Truong-Son Hy, Ralf Schlüter</div>
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
