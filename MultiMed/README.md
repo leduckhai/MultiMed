@@ -1,8 +1,10 @@
 # MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder
 
-**<div align="center">Preprint</div>**
+**<div align="center">ACL 2025</div>**
 
-<div align="center">Khai Le-Duc, Phuc Phan, Tan-Hanh Pham, Bach Phan Tat, Minh-Huong Ngo, Thanh Nguyen-Tang, Truong-Son Hy</div>
+<div align="center"><b>Khai Le-Duc</b>, Phuc Phan, Tan-Hanh Pham, Bach Phan Tat,</div>
+
+<div align="center">Minh-Huong Ngo, Chris Ngo, Thanh Nguyen-Tang, Truong-Son Hy</div>
 
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
@@ -30,6 +32,16 @@ The provided scripts cover model preparation, training, inference, and evaluatio
 Dataset: [🤗 HuggingFace dataset](https://huggingface.co/datasets/leduckhai/MultiMed), [Paperswithcodes dataset](https://paperswithcode.com/dataset/multimed)
 
 Pre-trained models: [🤗 HuggingFace models](https://huggingface.co/leduckhai/MultiMed)
+
+| Model Name       | Description                                | Link                                                                 |
+|------------------|--------------------------------------------|----------------------------------------------------------------------|
+| `Whisper-Small-Chinese`     | Small model fine-tuned on medical Chinese set        | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-chinese) |
+| `Whisper-Small-English`    | Small model fine-tuned on medical English set         | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-english) |
+| `Whisper-Small-French`  | Small model fine-tuned on medical French set          | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-french)    |
+| `Whisper-Small-German`  | Small model fine-tuned on medical German set          | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-german)    |
+| `Whisper-Small-Vietnamese`  | Small model fine-tuned on medical Vietnamese set          | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-vietnamese)    |
+| `Whisper-Small-Multilingual`  | Small model fine-tuned on medical Multilingual set (5 languages)        | [Hugging Face models](https://huggingface.co/leduckhai/MultiMed-ST/tree/main/asr/whisper-small-multilingual)    |
+
 
 ## Contact:
 
