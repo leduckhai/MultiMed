@@ -104,16 +104,6 @@ Please cite this paper: [https://arxiv.org/abs/2409.14074](https://arxiv.org/abs
 ```
 </p></details>
 
-**Below is work in progress, will be available soon!**
-
-<details><summary>Two-Stage Intermediate Loss for Fine-tuning Self-Supervised Models</summary><p>
-Due to the double-blind review, request of implementation and models will be processed after paper notification.
-</p></details>
-
-<details><summary>Domain-Shift in Medical Machine Translation</summary><p>
-Due to the double-blind review, request of implementation and models will be processed after paper notification.
-</p></details>
-
 ## Contact:
 
 For any information, please contact the main author:
