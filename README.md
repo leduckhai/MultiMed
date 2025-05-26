@@ -108,6 +108,8 @@ Please cite this paper: [https://arxiv.org/abs/2409.14074](https://arxiv.org/abs
 ```
 </p></details>
 
+You might also want to look at the extension of **MultiMed** here: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://github.com/leduckhai/MultiMed-ST)
+
 ## Contact:
 
 For any information, please contact the main author:
