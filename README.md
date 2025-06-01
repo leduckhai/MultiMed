@@ -90,6 +90,10 @@ Please cite this paper: https://arxiv.org/abs/2406.15888
 
 <details><summary> MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder (ACL 2025) </summary><p>
 
+<p align="center">
+  <img src="https://github.com/leduckhai/MultiMed/blob/master/MultiMed/MultiMed_ACL2025.png" width="400"/>
+</p>
+
 * [Code & Dataset](MultiMed/README.md)
 
 * **Abstract:**
