@@ -9,6 +9,10 @@
 
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
+<p align="center">
+  <img src="https://github.com/leduckhai/MultiMed/blob/master/MultiMed/MultiMed_ACL2025.png" width="700"/>
+</p>
+
 * **Abstract:**
 Multilingual automatic speech recognition (ASR) in the medical domain serves as a foundational task for various downstream applications such as speech translation, spoken language understanding, and voice-activated assistants. This technology improves patient care by enabling efficient communication across language barriers, alleviating specialized workforce shortages, and facilitating improved diagnosis and treatment, particularly during pandemics. In this work, we introduce \textit{MultiMed}, the first multilingual medical ASR dataset, along with the first collection of small-to-large end-to-end medical ASR models, spanning five languages: Vietnamese, English, German, French, and Mandarin Chinese. To our best knowledge, \textit{MultiMed} stands as the world’s largest medical ASR dataset across all major benchmarks: total duration, number of recording conditions, number of accents, and number of speaking roles. Furthermore, we present the first multilinguality study for medical ASR, which includes reproducible empirical baselines, a monolinguality-multilinguality analysis, Attention Encoder Decoder (AED) vs Hybrid comparative study and a linguistic analysis. We present practical ASR end-to-end training schemes optimized for a fixed number of trainable parameters that are common in industry settings. All code, data, and models are available online: [https://github.com/leduckhai/MultiMed/tree/master/MultiMed](https://github.com/leduckhai/MultiMed/tree/master/MultiMed).
 
