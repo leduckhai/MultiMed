@@ -17,7 +17,7 @@ args = parser.parse_args()
 
 
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'Please_fill_your_own_API_key'
 client = OpenAI()
 df = pd.read_excel('datasets/faq_train_4k.xlsx')
 # df = pd.read_json('data/faq_train.json', orient='records', lines=True).sample(2000)
