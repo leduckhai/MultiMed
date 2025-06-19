@@ -3,7 +3,7 @@
 > Please press ⭐ button and/or cite papers if you feel helpful.
 
 <p align="center">
-  <img src="https://trendshift.io/api/badge/repositories/4535" alt="GitHub Trend" />
+  <img src="https://trendshift.io/_next/image?url=https%3A%2F%2Ftrendshift.io%2Fapi%2Fbadge%2Frepositories%2F4535&w=640&q=75" alt="GitHub Trend" />
 </p>
 
 <p align="center">
