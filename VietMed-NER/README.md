@@ -1,6 +1,6 @@
 # Medical Spoken Named Entity Recognition
 
-**<div align="center">NAACL 2025</div>**
+**<div align="center">NAACL 2025 Industry Track</div>**
 
 <div align="center"><b>Khai Le-Duc</b>, David Thulke, Hung-Phong Tran, Long Vo-Dang, Khai-Nguyen Nguyen, Truong-Son Hy, Ralf Schlüter</div>
 
