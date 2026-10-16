@@ -38,6 +38,13 @@ Necessary packages for GMM-HMM ASR: [RETURNN](https://github.com/rwth-i6/returnn
 
 You may also want to check how to fine-tune our wav2vec 2.0-based pre-trained models [here](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md).
 
+## Version Control: October 2026
+The audio-transcript mismatch issue has been fixed by addressing discrepancies caused by human annotation limitations, particularly missing words at the beginning or end of recordings. 
+
+Therefore, the results reported in this paper should be considered for reference only, as they may not be exactly reproducible using the latest version of the dataset due to transcript updates and improvements.
+
+We thank the community for bringing this issue to our attention, which helped us identify and resolve the audio-transcript mismatch. We appreciate their valuable feedback and contributions to improving the quality of the dataset.
+
 ## Contact:
 
 If any links are broken, please contact me for fixing!
