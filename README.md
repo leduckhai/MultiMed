@@ -21,7 +21,7 @@
 
 ## Code and Dataset for implemented papers
 
-<details><summary>VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024, Oral) </summary><p>
+<details><summary>VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain (LREC-COLING 2024 🏆Oral) </summary><p>
 
 * [Code & Dataset](VietMed/README.md)
 
@@ -42,7 +42,7 @@ Please cite this paper https://arxiv.org/abs/2404.05659
 ```
 </p></details>
 
-<details><summary>Medical Spoken Named Entity Recognition (NAACL 2025) </summary><p>
+<details><summary>Medical Spoken Named Entity Recognition (NAACL 2025 Industry Track) </summary><p>
     
 * [Code & Dataset](VietMed-NER/README.md)
 
@@ -66,7 +66,7 @@ Please cite this paper https://arxiv.org/abs/2406.13337
 ```
 </p></details>
 
-<details><summary> Real-time Speech Summarization for Medical Conversations (Interspeech 2024, Oral) </summary><p>
+<details><summary> Real-time Speech Summarization for Medical Conversations (Interspeech 2024 🏆Oral) </summary><p>
 
 <p align="center">
 <img src="/VietMed-Sum/RTSS_diagram.png" alt="drawing" width="900"/>
@@ -92,7 +92,7 @@ Please cite this paper: https://arxiv.org/abs/2406.15888
 ```
 </p></details>
 
-<details><summary> MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder (ACL 2025) </summary><p>
+<details><summary> MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder (ACL 2025 Industry Track) </summary><p>
 
 <p align="center">
   <img src="https://github.com/leduckhai/MultiMed/blob/master/MultiMed/MultiMed_ACL2025.png" width="400"/>
